@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GhostOverlayView">
+        <attr name="ghostAlpha" format="float" />
+        <attr name="ghostScaleType" format="enum">
+            <enum name="centerCrop" value="0" />
+            <enum name="centerInside" value="1" />
+            <enum name="fitCenter" value="2" />
+        </attr>
+        <attr name="showEdges" format="boolean" />
+        <attr name="edgeColor" format="color" />
+        <attr name="edgeStrokeWidth" format="dimension" />
+    </declare-styleable>
+    
+    <declare-styleable name="AlignmentHudView">
+        <attr name="showHorizonLine" format="boolean" />
+        <attr name="showDirectionalArrows" format="boolean" />
+        <attr name="showGuidanceText" format="boolean" />
+        <attr name="alignedColor" format="color" />
+        <attr name="warningColor" format="color" />
+        <attr name="errorColor" format="color" />
+        <attr name="arrowSize" format="dimension" />
+        <attr name="guidanceTextSize" format="dimension" />
+        <attr name="showAngleValues" format="boolean" />
+    </declare-styleable>
+    
+    <declare-styleable name="BlurIndicatorView">
+        <attr name="showScore" format="boolean" />
+        <attr name="showLabel" format="boolean" />
+        <attr name="indicatorSize" format="dimension" />
+        <attr name="sharpColor" format="color" />
+        <attr name="blurryColor" format="color" />
+        <attr name="borderlineColor" format="color" />
+        <attr name="blurIndicatorStyle" format="enum">
+            <enum name="badge" value="0" />
+            <enum name="bar" value="1" />
+            <enum name="ring" value="2" />
+        </attr>
+    </declare-styleable>
+    
+    <declare-styleable name="QualityBadgeView">
+        <attr name="badgeSize" format="dimension" />
+        <attr name="excellentColor" format="color" />
+        <attr name="goodColor" format="color" />
+        <attr name="poorColor" format="color" />
+        <attr name="showQualityLabel" format="boolean" />
+    </declare-styleable>
+</resources>
