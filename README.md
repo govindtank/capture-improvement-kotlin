@@ -6,12 +6,10 @@
   <img src="https://img.shields.io/badge/Platform-Android%20Native-brightgreen?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/API-23%2B-blue?style=flat-square" alt="API Level">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat-square" alt="License"></a>
-  <a href="https://github.com/govindtank"><img src="https://img.shields.io/badge/Author-Govind%20Tank-orange?style=flat-square" alt="Author"></a>
 </p>
 
 <p align="center">
-  <b>Android CameraX intelligent capture toolkit — blur detection, angle matching, and orientation guidance.</b><br>
-  <i>Architected &amp; Crafted with ❤️ by <a href="https://github.com/govindtank">Govind Tank</a></i>
+  <b>Android CameraX intelligent capture toolkit — blur detection, angle matching, and orientation guidance.</b>
 </p>
 
 ---
@@ -56,31 +54,22 @@ dependencies {
 
 ---
 
-## 💖 Support & Sponsorship
+## 💖 Support the Project
 
-If you find this library helpful for your Android applications, consider supporting continuous development:
+If you find this library useful, consider supporting its continuous maintenance and future development:
 
 <p align="left">
-  <a href="https://www.patreon.com/govindtank"><img src="https://img.shields.io/badge/Patreon-Support%20Creator-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
-  <a href="https://github.com/sponsors/govindtank"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"></a>
-  <a href="https://buymeacoffee.com/govindtanko"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
+  <a href="https://buymeacoffee.com/govindtanko"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=govindtanko&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="40"/></a>
+  &nbsp;
+  <a href="https://github.com/sponsors/govindtank"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors" height="40"/></a>
+  &nbsp;
+  <a href="https://www.patreon.com/govindtank"><img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" height="40"/></a>
 </p>
-
-- **Patreon**: [patreon.com/govindtank](https://www.patreon.com/govindtank)
-- **GitHub Sponsors**: [github.com/sponsors/govindtank](https://github.com/sponsors/govindtank)
-- **Buy Me a Coffee**: [buymeacoffee.com/govindtanko](https://buymeacoffee.com/govindtanko)
-
----
-
-## 👨💻 Author
-
-**Govind Tank**
-- **GitHub**: [@govindtank](https://github.com/govindtank)
-- **Website**: [govindtank.github.io](https://govindtank.github.io)
-- **LinkedIn**: [linkedin.com/in/govind-tank](https://linkedin.com/in/govind-tank)
 
 ---
 
 ## 📄 License
 
-Apache License 2.0
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+*Maintained with ❤️ by [Govind Tank](https://github.com/govindtank).*
